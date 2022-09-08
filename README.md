@@ -40,18 +40,37 @@ See [my website](https://laurasims.dev) for more information!
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=timcreative&layout=compact&theme=cobalt&hide_border=true" /></p>
 
-<h1 align="center">Projects</h1>
+<h1 align="center">Recent Projects</h1>
 <table bordercolor="#66b2b2">
   
   <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">Virtual Book Club</h3>
+  <td width="30%" valign="top">
+      <h3 align="center">Helios Wellness</h3>
         <br />
-        <a target="_blank" href="https://virtual-book-club-app.herokuapp.com">
-            <img src="img/image2.png" width="100%" alt="virtual book club app"/>
+        <a target="_blank" href="https://helios-wellness.herokuapp.com">
+            <img src="img/image1.png" width="100%" alt="virtual book club app"/>
         </a>
         <br />
       <p align="center">
+          
+  <a href="https://github.com/laurasimsdev/helios-wellness" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>  
+  <a href="https://helios-wellness.herokuapp.com/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+    </p>
+    <p><strong>Javascript, Node, Express, & MongoDB </strong> - A wellness journal, built using MVC architecture, has authentication to enable each user to login and have a personalized experience. The user will be able to input their daily notes, mood, exercise, sleep duration, and water intake. User can monitor their progress overtime to find patterns and identify influential factors relating to motivation and state of mind.</p>
+    </td>
+
+  <td width="30%" valign="top">
+    <h3 align="center">Virtual Book Club</h3>
+      <br />
+      <a target="_blank" href="https://virtual-book-club-app.herokuapp.com">
+        <img src="img/image2.png" width="100%" alt="virtual book club app"/>
+      </a>
+      <br />
+    <p align="center">
           
   <a href="https://github.com/laurasimsdev/virtual-book-club" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
@@ -60,10 +79,10 @@ See [my website](https://laurasims.dev) for more information!
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
     </p>
-    <p><strong>Javascript, Node.js, & Express.js</strong> - A social app to promote reading</p>
+    <p><strong>Javascript, Node, Express, & MongoDB </strong> - A social app to promote reading. This web app offers users the ability to make public and private book reviews, and to read public reviews on the site.</p>
     </td>
     
-  <td width="50%" valign="top">
+  <td width="30%" valign="top">
       <h3 align="center">Zen Notes</h3>
         <br />
       <a target="_blank" href="https://zen-notes.herokuapp.com">
@@ -79,7 +98,7 @@ See [my website](https://laurasims.dev) for more information!
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-    <p><strong>Javascript, Node.js, & Express.js</strong> - A streamlined productivity application allowing users to quickly add, update, and delete their notes.</p>
+    <p><strong>Javascript, Node, Express, & MongoDB </strong> - A streamlined productivity application allowing users to quickly add, update, and delete their notes.</p>
     </td>
   </tr>
 </table>
