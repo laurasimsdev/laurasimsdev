@@ -41,7 +41,7 @@ See [my website](https://laurasims.dev) for more information!
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
     </p>
-    <p><strong>Javascript, Node, Express, & MongoDB </strong> - A wellness journal, built using MVC architecture, has authentication to enable each user to login and have a personalized experience. The user will be able to input their daily notes, mood, exercise, sleep duration, and water intake. User can monitor their progress overtime to find patterns and identify influential factors relating to motivation and state of mind.</p>
+    <p>A wellness journal, built using MVC architecture, has authentication to enable each user to login and have a personalized experience. The user will be able to input their daily notes, mood, exercise, sleep duration, and water intake. User can monitor their progress overtime to find patterns and identify influential factors relating to motivation and state of mind.</p>
     </td>
 
   <td width="30%" valign="top">
@@ -60,7 +60,7 @@ See [my website](https://laurasims.dev) for more information!
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
     </p>
-    <p><strong>Javascript, Node, Express, & MongoDB </strong> - A social app to promote reading. This web app offers users the ability to make public and private book reviews, and to read public reviews on the site.</p>
+    <p>A social app to promote reading. This web app offers users the ability to make public and private book reviews, and to read public reviews on the site.</p>
     </td>
     
   <td width="30%" valign="top">
@@ -79,7 +79,7 @@ See [my website](https://laurasims.dev) for more information!
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-    <p><strong>Javascript, Node, Express, & MongoDB </strong> - A streamlined productivity application allowing users to quickly add, update, and delete their notes.</p>
+    <p>A streamlined productivity application allowing users to quickly add, update, and delete their notes.</p>
     </td>
   </tr>
 </table>
