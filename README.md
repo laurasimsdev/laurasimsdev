@@ -25,29 +25,27 @@ See [my website](https://laurasims.dev) for more information!
 <table bordercolor="#66b2b2">
   
   <tr>
-  <td width="30%" valign="top">
-      <h3 align="center">Helios Wellness</h3>
+    <td width="50%" valign="top">
+      <h3 align="center">ArtCircle</h3>
         <br />
-        <a target="_blank" href="https://helios-wellness.herokuapp.com">
-            <img src="img/image1.png" width="100%" alt="virtual book club app"/>
+        <a target="_blank" href="https://github.com/laurasimsdev/art-circle">
+            <img src="img/image4.png" width="100%" alt="ArtCircle app"/>
         </a>
         <br />
-      <p align="center">
-          
-  <a href="https://github.com/laurasimsdev/helios-wellness" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a>  
-  <a href="https://helios-wellness.herokuapp.com/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic"/>
-  </a>
-    </p>
-    <p>A wellness journal, built using MVC architecture, has authentication to enable each user to login and have a personalized experience. The user will be able to input their daily notes, mood, exercise, sleep duration, and water intake. User can monitor their progress overtime to find patterns and identify influential factors relating to motivation and state of mind.</p>
+      <p align="center">   
+      <a href="https://github.com/laurasimsdev/art-circle" target="_blank">
+      <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+      </a>  
+      <a href="https://art-circle-community.herokuapp.com" target="_blank">
+      <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic"/>
+      </a>
+      </p>
+      <p> A social media application providing an online art community for artists and creatives to connect, socialize, to find inspiration, and to inspire others. Users will be able to upload artwork to share with the community, and to give and receive feedback on the artwork.</p>
     </td>
-
-  <td width="30%" valign="top">
+    <td width="50%" valign="top">
     <h3 align="center">Virtual Book Club</h3>
       <br />
-      <a target="_blank" href="https://virtual-book-club-app.herokuapp.com">
+      <a target="_blank" href="https://github.com/laurasimsdev/virtual-book-club">
         <img src="img/image2.png" width="100%" alt="virtual book club app"/>
       </a>
       <br />
@@ -61,12 +59,33 @@ See [my website](https://laurasims.dev) for more information!
   </a>
     </p>
     <p>A social app to promote reading. This web app offers users the ability to make public and private book reviews, and to read public reviews on the site.</p>
-    </td>
-    
-  <td width="30%" valign="top">
+  </td>
+  </tr>
+  <tr>
+  <td width="50%" valign="top">
+      <h3 align="center">Helios Wellness</h3>
+        <br />
+        <a target="_blank" href="https://github.com/laurasimsdev/helios-wellness">
+            <img src="img/image1.png" width="100%" alt="virtual book club app"/>
+        </a>
+        <br />
+      <p align="center">
+          
+  <a href="https://github.com/laurasimsdev/helios-wellness" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>  
+  <a href="https://helios-wellness.herokuapp.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic"/>
+  </a>
+    </p>
+    <p>A wellness journal, built using MVC architecture, has authentication to enable each user to login and have a personalized experience. The user will be able to input their daily notes, mood, exercise, sleep duration, and water intake. User can monitor their progress overtime to find patterns and identify influential factors relating to motivation and state of mind.</p>
+  </td>
+
+
+  <td width="50%" valign="top">
       <h3 align="center">Zen Notes</h3>
         <br />
-      <a target="_blank" href="https://zen-notes.herokuapp.com">
+      <a target="_blank" href="https://github.com/laurasimsdev/zen-notes">
             <img src="img/image3.png" width="100%"  alt="zen notes"/>
         </a>
         <br />
@@ -80,8 +99,9 @@ See [my website](https://laurasims.dev) for more information!
   </a>
       </p>
     <p>A streamlined productivity application allowing users to quickly add, update, and delete their notes.</p>
-    </td>
+  </td>
   </tr>
+
 </table>
 
 <h1 align="center">Technologies</h1>
