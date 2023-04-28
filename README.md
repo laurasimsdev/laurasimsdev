@@ -26,7 +26,7 @@ See [my website](https://laurasims.dev) for more information!
       <h3 align="center">ArtCircle</h3>
         <br />
         <a target="_blank" href="https://github.com/laurasimsdev/art-circle">
-            <img src="img/artcircle.gif" width="100%" alt="ArtCircle app"/>
+            <img src="img/image4.png" width="100%" alt="ArtCircle app"/>
         </a>
         <br />
       <p align="center">   
@@ -43,7 +43,7 @@ See [my website](https://laurasims.dev) for more information!
     <h3 align="center">Virtual Book Club</h3>
       <br />
       <a target="_blank" href="https://github.com/laurasimsdev/virtual-book-club">
-        <img src="img/virtualbookclub.gif" width="100%" alt="virtual book club app"/>
+        <img src="img/image2.png" width="100%" alt="virtual book club app"/>
       </a>
       <br />
     <p align="center">
@@ -63,7 +63,7 @@ See [my website](https://laurasims.dev) for more information!
       <h3 align="center">Helios Wellness</h3>
         <br />
         <a target="_blank" href="https://github.com/laurasimsdev/helios-wellness">
-            <img src="img/helios.gif" width="100%" alt="virtual book club app"/>
+            <img src="img/image1.png" width="100%" alt="virtual book club app"/>
         </a>
         <br />
       <p align="center">
@@ -83,7 +83,7 @@ See [my website](https://laurasims.dev) for more information!
       <h3 align="center">Zen Notes</h3>
         <br />
       <a target="_blank" href="https://github.com/laurasimsdev/zen-notes">
-            <img src="img/zennotes.gif" width="100%"  alt="zen notes"/>
+            <img src="img/image3.png" width="100%"  alt="zen notes"/>
         </a>
         <br />
         <p align="center">
