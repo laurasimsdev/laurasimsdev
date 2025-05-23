@@ -123,7 +123,4 @@ See [my website](https://laurasims.dev) for more information!
   <a href="https://www.linkedin.com/in/laurasimsdev/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=cdf998&style=plastic&logo=linkedin&logo-color=white"/>
   </a>
-  <a href="https://twitter.com/LauraSimsDev" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=23555f&style=plastic&logo=twitter&logo-color=white"/>
-  </a>
 </p>
