@@ -1,126 +1,74 @@
-<img src="./banner.png" width="100%">
+
+<img src="./banner.png" width="100%" alt="Laura Sims banner" />
 
 <p align="center">
-  <a href="https://laurasims.dev" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=react&logo-color=white"/>
+  <a href="https://laurasims.dev">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=react&logo-color=white" alt="Portfolio website" />
   </a>
-  <a href="https://www.linkedin.com/in/laurasimsdev/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=cdf998&style=plastic&logo=linkedin&logo-color=white"/>
+  <a href="https://www.linkedin.com/in/laurasimsdev/">
+    <img src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=cdf998&style=plastic&logo=linkedin&logo-color=white" alt="LinkedIn" />
   </a>
+</p>
+
+<h2 align="center">About Me</h2>
+
+<p>
+I'm a Software Engineer who loves turning complex problems into simple, effective solutions. I enjoy building full-stack web applications, exploring new technologies, and continuously improving my craft.
 </p>
 
 <p>
-I'm a passionate Software Engineer with a proven track record of creating and implementing successful full stack web applications. I love software development's creative and technical aspects and am passionate about all things tech-related! As a problem solver at heart, I love the perpetual learning involved with software engineering and enjoy the dynamic nature of development.
+When I'm not behind a keyboard, you'll likely find me out on my bike, exploring the outdoors, or spending quality time with my family.
 </p>
 
-See [my website](https://laurasims.dev) for more information!
+<p>
+Check out <a href="https://laurasims.dev">my portfolio</a> to learn more about me.
+</p>
 
-<h1 align="center">Recent Projects</h1>
-<table bordercolor="#66b2b2">
-  
+<h2 align="center">Featured Projects</h2>
+
+<table align="center">
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">ArtCircle</h3>
-        <br />
-        <a target="_blank" href="https://github.com/laurasimsdev/art-circle">
-            <img src="img/image4.png" width="100%" alt="ArtCircle app"/>
-        </a>
-        <br />
-      <p align="center">   
-      <a href="https://github.com/laurasimsdev/art-circle" target="_blank">
-      <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-      </a>  
-      <a href="https://art-circle-community.herokuapp.com" target="_blank">
-      <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic"/>
+      <h3 align="center">Village Collective</h3>
+      <a href="http://www.villagecollective.space/">
+        <img src="img/village-collective.png" width="100%" alt="Village Collective website screenshot" />
       </a>
+      <p align="center">
+        <a href="http://www.villagecollective.space/">
+          <img src="https://img.shields.io/static/v1?label=|&message=VISIT+WEBSITE&color=23555f&style=plastic" alt="Visit Village Collective" />
+        </a>
       </p>
-      <p> A social media application providing an online art community for artists and creatives to connect, socialize, to find inspiration, and to inspire others. Users will be able to upload artwork to share with the community, and to give and receive feedback on the artwork.</p>
+      <p>
+        Explore Village Collective, one of my recent web projects.
+      </p>
     </td>
     <td width="50%" valign="top">
-    <h3 align="center">Virtual Book Club</h3>
-      <br />
-      <a target="_blank" href="https://github.com/laurasimsdev/virtual-book-club">
-        <img src="img/image2.png" width="100%" alt="virtual book club app"/>
+      <h3 align="center">Savage Flow Co.</h3>
+      <a href="https://savageflowco.site">
+        <img src="img/savage-flow-co.png" width="100%" alt="Savage Flow Co. website screenshot" />
       </a>
-      <br />
-    <p align="center">
-          
-  <a href="https://github.com/laurasimsdev/virtual-book-club" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a>  
-  <a href="https://virtual-book-club-app.herokuapp.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic"/>
-  </a>
-    </p>
-    <p>A social app to promote reading. This web app offers users the ability to make public and private book reviews, and to read public reviews on the site.</p>
-  </td>
-  </tr>
-  <tr>
-  <td width="50%" valign="top">
-      <h3 align="center">Helios Wellness</h3>
-        <br />
-        <a target="_blank" href="https://github.com/laurasimsdev/helios-wellness">
-            <img src="img/image1.png" width="100%" alt="virtual book club app"/>
-        </a>
-        <br />
       <p align="center">
-          
-  <a href="https://github.com/laurasimsdev/helios-wellness" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a>  
-  <a href="https://helios-wellness.herokuapp.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic"/>
-  </a>
-    </p>
-    <p>A wellness journal, built using MVC architecture, has authentication to enable each user to login and have a personalized experience. The user will be able to input their daily notes, mood, exercise, sleep duration, and water intake. User can monitor their progress overtime to find patterns and identify influential factors relating to motivation and state of mind.</p>
-  </td>
-
-
-  <td width="50%" valign="top">
-      <h3 align="center">Zen Notes</h3>
-        <br />
-      <a target="_blank" href="https://github.com/laurasimsdev/zen-notes">
-            <img src="img/image3.png" width="100%"  alt="zen notes"/>
+        <a href="https://savageflowco.site">
+          <img src="https://img.shields.io/static/v1?label=|&message=VISIT+WEBSITE&color=cdf998&style=plastic" alt="Visit Savage Flow Co." />
         </a>
-        <br />
-        <p align="center">
-          
-  <a href="https://github.com/laurasimsdev/zen-notes" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a>
-  <a href="https://zen-notes.herokuapp.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic"/>
-  </a>
       </p>
-    <p>A streamlined productivity application allowing users to quickly add, update, and delete their notes.</p>
-  </td>
+      <p>
+        Explore Savage Flow Co., one of my recent web projects.
+      </p>
+    </td>
   </tr>
-
 </table>
 
-<h1 align="center">Technologies</h1>
+<h2 align="center">Technologies</h2>
 
 <p align="center">
-    <img src="https://img.shields.io/static/v1?label=|&message=JAVASCRIPT&color=3c7f5d&style=plastic&logo=javascript"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=REACT.JS&color=4a935c&style=plastic&logo=react"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=NODE.JS&color=4a935c&style=plastic&logo=node"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=HTML5&color=23555f&style=plastic&logo=html5"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=CSS3&color=285f65&style=plastic&logo=css3"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=BOOTSTRAP&color=316c5e&style=plastic&logo=bootstrap"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=EXPRESS&color=bbb111&style=plastic&logo=express"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=MONGO-DB&color=cdd148&style=plastic&logo=mongodb"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=GIT&color=cbb148&style=plastic&logo=git"/>
-</p>
-
----
-
-<h1 align="center">Connect</h1>
-
-<p align="center">
-  <a href="https://laurasims.dev" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=react&logo-color=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/laurasimsdev/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=cdf998&style=plastic&logo=linkedin&logo-color=white"/>
-  </a>
+  <img src="https://img.shields.io/badge/JavaScript-3c7f5d?style=plastic&logo=javascript&logoColor=white" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-4a935c?style=plastic&logo=react&logoColor=white" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-4a935c?style=plastic&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/HTML5-23555f?style=plastic&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-285f65?style=plastic&logo=css&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Bootstrap-316c5e?style=plastic&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/Express-bbb111?style=plastic&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/MongoDB-cdd148?style=plastic&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Git-cbb148?style=plastic&logo=git&logoColor=white" alt="Git" />
 </p>
