@@ -31,7 +31,7 @@ Check out <a href="https://laurasims.dev">my portfolio</a> to learn more about m
     <td width="50%" valign="top">
       <h3 align="center">Village Collective</h3>
       <a href="http://www.villagecollective.space/">
-        <img src="img/village-collective.png" width="100%" alt="Village Collective website screenshot" />
+        <img src="img/village-collective.jpg" alt="Village Collective website screenshot" />
       </a>
       <p align="center">
         <a href="http://www.villagecollective.space/">
@@ -39,13 +39,13 @@ Check out <a href="https://laurasims.dev">my portfolio</a> to learn more about m
         </a>
       </p>
       <p>
-        Explore Village Collective, one of my recent web projects.
+        Explore Village Collective
       </p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">Savage Flow Co.</h3>
       <a href="https://savageflowco.site">
-        <img src="img/savage-flow-co.png" width="100%" alt="Savage Flow Co. website screenshot" />
+        <img src="img/savage-flow-co.jpg" alt="Savage Flow Co. website screenshot" />
       </a>
       <p align="center">
         <a href="https://savageflowco.site">
@@ -53,7 +53,7 @@ Check out <a href="https://laurasims.dev">my portfolio</a> to learn more about m
         </a>
       </p>
       <p>
-        Explore Savage Flow Co., one of my recent web projects.
+        Explore Savage Flow Co.
       </p>
     </td>
   </tr>
